@@ -1,0 +1,1 @@
+import{e,o as r,f as a}from"./vendor.32451948.js";import{_ as o}from"./index.5bbe2a7e.js";var s=o(e({setup:()=>({})}),[["render",function(e,o,s,n,t,d){return r(),a("div",null,"audio")}]]);export{s as default};
